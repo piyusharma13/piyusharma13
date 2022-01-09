@@ -7,7 +7,7 @@ I develop mobile and desktop applications. My working style is Plan, Apply, Refl
 * Native  iOS and macOS application development using SWIFT and Objective C
 * Hybrid app development using React-native and it's parent stack - React-native, React, JS.
 * Front end development using HTML and CSS - Flexbox, Grid ....
-* Fun fact: I love video editing, can provide post production services in free time 😎 
+* Fun fact: I love video editing, like post production work in free time 😎 
 
 
 
